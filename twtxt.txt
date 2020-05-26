@@ -11,10 +11,10 @@
 # and free software.
 #
 # 
-#	nick    : neustadt
-#	web     : https://neustadt.fr
+# nick    : neustadt
+# web     : https://neustadt.fr
 # twitter : @parimalsatyal
-#	email   : felix@neustadt.fr
+# email   : felix@neustadt.fr
 #	
 #
 
