@@ -18,3 +18,4 @@
 
 2020-05-26T19:27:57+02:00	first twtxt tweet w00t
 2020-05-26T19:32:51+02:00	ok following the http://twtxt.xyz/ timeline. don't know anyone here yet. whom shall I follow? #new
+2020-05-26T23:02:21+02:00	My new essay about rediscovering the small/independent web (with some history): https://neustadt.fr/essays/the-small-web/
