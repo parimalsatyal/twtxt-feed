@@ -1,3 +1,23 @@
+#
+# | |___      _| |___  _| |_
+# | __\ \ /\ / / __\ \/ / __|
+# | |_ \ V  V /| |_ >  <| |_
+#  \__| \_/\_/  \__/_/\_\\__|
+#
+# Twtxt is an open, distributed 
+# microblogging platform 
+# that uses human-readable text files, 
+# common transport protocols,
+# and free software.
+#
+# 
+#	nick		:	neustadt
+#	web			:	https://neustadt.fr
+# twitter	: @parimalsatyal
+#	email		:	felix@neustadt.fr
+#	
+#	-----------------------
+#
 
 2020-05-26T19:27:57+02:00	first twtxt tweet w00t
 2020-05-26T19:32:51+02:00	ok following the http://twtxt.xyz/ timeline. don't know anyone here yet. whom shall I follow? #new
